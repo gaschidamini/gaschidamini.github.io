@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Gustavo Aschidamini"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Gustavo Aschidamini"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://gaschidamini.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "PhD student at Simon Fraser University"
+  location         : "Vancouver, BC, Canada"
+  employer         : ""
   uri              : # URL
   email            : "none@example.org" 
 
@@ -38,7 +38,7 @@ author:
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : # https://www.researchgate.net/profile/Gustavo-Aschidamini?ev=hdr_xprf
   scopus           : # URL
 
   # Repositories and software development
