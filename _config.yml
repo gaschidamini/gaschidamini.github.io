@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "me.jpeg"
+  avatar           : "me.jpg"
   name             : "Gustavo Aschidamini"
   pronouns         : # example: "she/her"  
   bio              : "PhD student at Simon Fraser University"
@@ -38,7 +38,7 @@ author:
   orcid            : "http://orcid.org/0000-0002-1667-3803"
   semantic         : # URL
   pubmed           : # URL
-  researchgate     : # "https://www.researchgate.net/profile/Gustavo-Aschidamini?ev=hdr_xprf"
+  researchgate     : "https://www.researchgate.net/profile/Gustavo-Aschidamini?ev=hdr_xprf"
   scopus           : # URL
 
   # Repositories and software development
