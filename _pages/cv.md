@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-<a href="/files/CV_gustavoaschidamini.pdf" target="_blank">CV updated on Feb 8, 2025</a>
+<a href="/files/CV_gustavoaschidamini.pdf" target="_blank">CV updated on March 8, 2025</a>
 
 
 
