@@ -13,7 +13,7 @@ I am Gustavo, a PhD candidate in <a href="https://www.sfu.ca/fas/schools/sustain
 
 During my Master’s degree in Electrical Engineering, I developed a method for assessing the reliability of power distribution systems for expansion planning as part of an R&D project funded by an electric utility.
 
-Beyond my research, you can find me taking photos with my Fuji digital camera and vintage film camera, hiking, reading cozy fiction books, and having long conversations with friends at coffee shops.
+Beyond my research, you can find me taking photos using film simulations with my Fuji camera, playing table tennis and badminton, or cooking.
 
 
 
