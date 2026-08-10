@@ -25,7 +25,7 @@ author:
   avatar           : "me1.jpg"
   name             : "Gustavo Aschidamini"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student at Simon Fraser University"
+  bio              : "PhD Candidate at Simon Fraser University"
   location         : "Vancouver, BC, Canada"
   employer         : #
   uri              : # URL
@@ -45,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "gaschidamini"
+  github           : # Username
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -57,7 +57,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "gustavoaschidamini"
+  instagram        : # Username
   lastfm           : # Username
   linkedin         : "gustavoaschidamini"
   mastodon         : # URL
