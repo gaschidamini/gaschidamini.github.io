@@ -40,8 +40,8 @@ I am a PhD candidate in <a href="https://www.sfu.ca/fas/schools/sustainable-ener
       <em>Energy Conversion and Management</em>, 2026
     </p>
 
-    <p class="research-links">
-      <a href="https://www.sciencedirect.com/science/article/pii/S0196890426009842">paper</a>
+    <p class="research-desc">
+      RL framework that learns how to control a variable-speed compressor heat pump for space heating to reduce electricity costs under time-of-use electricity prices while adapting to varying weather conditions.
     </p>
   </div>
 </div>
@@ -65,8 +65,8 @@ I am a PhD candidate in <a href="https://www.sfu.ca/fas/schools/sustainable-ener
       <em>IEEE Access</em>, 2025
     </p>
 
-    <p class="research-links">
-      <a href="https://doi.org/10.1109/ACCESS.2025.3569761">paper</a>
+    <p class="research-desc">
+      Review of existing methods for controlling heat pumps to provide energy flexibility under time-varying electricity prices, direct load control, and increased self-consumption.
     </p>
   </div>
 </div>
@@ -90,8 +90,8 @@ I am a PhD candidate in <a href="https://www.sfu.ca/fas/schools/sustainable-ener
       <em>Energies</em>, 2022
     </p>
 
-    <p class="research-links">
-      <a href="https://doi.org/10.3390/en15145073">paper</a>
+    <p class="research-desc">
+      Method that uses real interruption data from a utility to assess reliability and estimate reliability improvements from expansion alternatives.
     </p>
   </div>
 </div>
@@ -115,8 +115,8 @@ I am a PhD candidate in <a href="https://www.sfu.ca/fas/schools/sustainable-ener
       <em>Energies</em>, 2022
     </p>
 
-    <p class="research-links">
-      <a href="https://doi.org/10.3390/en15062275">paper</a>
+    <p class="research-desc">
+      Review of methods that propose distribution network expansion during the planning stage to improve the expected reliability.
     </p>
   </div>
 </div>
