@@ -12,7 +12,7 @@ redirect_from:
 .page__title { font-size: 1.15em; }
 #selected-research { font-size: 1.15em; }
 /* Intro text matches the publication font size */
-.page__content > p { font-size: 0.9em; }
+.page__content > p { font-size: 1em; }
 </style>
 
 I am a PhD candidate in <a href="https://www.sfu.ca/fas/schools/sustainable-energy-engineering.html">Sustainable Energy Engineering</a> at Simon Fraser University and a member of the <a href="https://www.sfu.ca/fas/research/fas-research-labs/power-and-energy-systems/">Power & Energy Systems Research Group</a>, advised by <a href="https://scholar.google.com/citations?user=7Ef6qOIAAAAJ&hl=en">Dr. Mariana Resener</a>. My research interests are in power systems operation and expansion.
