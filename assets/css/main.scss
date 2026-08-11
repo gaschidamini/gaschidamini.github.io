@@ -177,3 +177,11 @@
   line-height: 1;
   font-weight: 300;
 }
+
+
+/* --------------------------------------------------------------------------
+   Author sidebar: hide name + bio (kept in _config.yml for SEO / schema)
+   -------------------------------------------------------------------------- */
+.author__content {
+  display: none;
+}
