@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Gustavo Aschidamini"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,13 +11,11 @@ redirect_from:
 /* Homepage-only heading sizes (this CSS loads only on the home page) */
 .page__title { font-size: 1.15em; }
 #selected-research { font-size: 1.15em; }
+/* Intro text matches the publication font size */
+.page__content > p { font-size: 0.9em; }
 </style>
 
-I am Gustavo, a PhD candidate in <a href="https://www.sfu.ca/fas/schools/sustainable-energy-engineering.html">Sustainable Energy Engineering</a> at Simon Fraser University and a member of the <a href="https://www.sfu.ca/fas/research/fas-research-labs/power-and-energy-systems/">Power & Energy Systems Research group</a>. Currently, I am working as an intern in a research and development (R&D) project, focusing on developing solutions to provide ancillary services through customer equipment to support distribution networks. My research primarily focuses on the control of heat pumps for energy management. 
-
-During my Master’s degree in Electrical Engineering, I developed a method for assessing the reliability of power distribution systems for expansion planning as part of an R&D project funded by an electric utility.
-
-Beyond my research, you can find me taking photos using film simulations with my Fuji camera, playing table tennis and badminton, or cooking.
+I am a PhD candidate in <a href="https://www.sfu.ca/fas/schools/sustainable-energy-engineering.html">Sustainable Energy Engineering</a> at Simon Fraser University and a member of the <a href="https://www.sfu.ca/fas/research/fas-research-labs/power-and-energy-systems/">Power & Energy Systems Research Group</a>, advised by <a href="https://scholar.google.com/citations?user=7Ef6qOIAAAAJ&hl=en">Dr. Mariana Resener</a>. My research interests are in power systems operation and expansion.
 
 
 
