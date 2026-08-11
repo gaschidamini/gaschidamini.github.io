@@ -17,4 +17,38 @@ Beyond my research, you can find me taking photos using film simulations with my
 
 
 
+<div class="research-item">
+  <div class="research-image">
+    <img src="/images/figure_framework_reliability.png"
+         alt="Reliability assessment in power distribution systems">
+  </div>
+
+  <div class="research-content">
+    <h3>
+      A Framework for Reliability Assessment in Expansion Planning of Power Distribution Systems
+    </h3>
+
+```
+<p class="research-authors">
+  <strong>Gustavo L. Aschidamini</strong>, Gederson A. da Cruz, Mariana Resener, Roberto C. Leborgne, Luis A. Pereira
+</p>
+
+<p class="research-venue">
+  <em>Energies</em>, 2022
+</p>
+
+<p>
+  A framework for assessing the reliability of power distribution systems
+  to support expansion planning and investment decisions using real utility data.
+</p>
+
+<p class="research-links">
+  <a href="https://doi.org/10.3390/en15145073">Paper</a>
+</p>
+```
+
+  </div>
+</div>
+
+
 
