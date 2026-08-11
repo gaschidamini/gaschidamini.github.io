@@ -10,9 +10,9 @@ redirect_from:
 <style>
 /* Homepage-only heading sizes (this CSS loads only on the home page) */
 .page__title { font-size: 1.15em; }
-#selected-research { font-size: 1.15em; }
+#selected-research { font-size: 1.15em; font-weight: normal; }
 /* Intro text matches the publication font size */
-.page__content > p { font-size: 0.875em; }
+.page__content > p { font-size: 14px; }
 </style>
 
 I am a PhD candidate in <a href="https://www.sfu.ca/fas/schools/sustainable-energy-engineering.html">Sustainable Energy Engineering</a> at Simon Fraser University and a member of the <a href="https://www.sfu.ca/fas/research/fas-research-labs/power-and-energy-systems/">Power & Energy Systems Research Group</a>, advised by <a href="https://scholar.google.com/citations?user=7Ef6qOIAAAAJ&hl=en">Dr. Mariana Resener</a>. My research interests are in power systems operation and expansion.
@@ -41,7 +41,7 @@ I am a PhD candidate in <a href="https://www.sfu.ca/fas/schools/sustainable-ener
     </p>
 
     <p class="research-links">
-      <a href="https://www.sciencedirect.com/science/article/pii/S0196890426009842">Paper</a>
+      <a href="https://www.sciencedirect.com/science/article/pii/S0196890426009842">paper</a>
     </p>
   </div>
 </div>
@@ -66,7 +66,7 @@ I am a PhD candidate in <a href="https://www.sfu.ca/fas/schools/sustainable-ener
     </p>
 
     <p class="research-links">
-      <a href="https://doi.org/10.1109/ACCESS.2025.3569761">Paper</a>
+      <a href="https://doi.org/10.1109/ACCESS.2025.3569761">paper</a>
     </p>
   </div>
 </div>
@@ -91,7 +91,7 @@ I am a PhD candidate in <a href="https://www.sfu.ca/fas/schools/sustainable-ener
     </p>
 
     <p class="research-links">
-      <a href="https://doi.org/10.3390/en15145073">Paper</a>
+      <a href="https://doi.org/10.3390/en15145073">paper</a>
     </p>
   </div>
 </div>
@@ -116,7 +116,7 @@ I am a PhD candidate in <a href="https://www.sfu.ca/fas/schools/sustainable-ener
     </p>
 
     <p class="research-links">
-      <a href="https://doi.org/10.3390/en15062275">Paper</a>
+      <a href="https://doi.org/10.3390/en15062275">paper</a>
     </p>
   </div>
 </div>
