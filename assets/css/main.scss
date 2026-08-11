@@ -199,9 +199,13 @@
 /* --------------------------------------------------------------------------
    Hyperlinks: reference-style blue, no underline
    -------------------------------------------------------------------------- */
-.page__content a,
+.page__content a {
+  color: #1772d0;
+  text-decoration: none;
+}
+
 .page__content a:hover,
 .page__content a:focus {
-  color: #1772d0;
+  color: #cc0000;
   text-decoration: none;
 }
