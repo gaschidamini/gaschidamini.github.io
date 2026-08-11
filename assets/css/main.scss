@@ -48,14 +48,15 @@
 .research-item {
   display: flex;
   align-items: flex-start;
-  gap: 30px;
-  margin: 0 0 45px 0;
+  gap: 24px;
+  margin: 0 0 40px 0;
   padding: 0;
 }
 
 .research-image {
-  flex: 0 0 32%;
-  max-width: 32%;
+  flex: 0 1 400px;
+  max-width: 400px;
+  position: relative;
 }
 
 .research-image img {
@@ -64,6 +65,33 @@
   height: auto;
   object-fit: contain;
   border-radius: 3px;
+  cursor: zoom-in;
+  transition: opacity 0.15s ease;
+}
+
+.research-image:hover img {
+  opacity: 0.85;
+}
+
+/* magnifier hint on hover */
+.research-image::after {
+  content: "\1F50D";
+  position: absolute;
+  top: 6px;
+  right: 6px;
+  background: rgba(0, 0, 0, 0.55);
+  color: #fff;
+  font-size: 12px;
+  line-height: 1;
+  padding: 4px 5px;
+  border-radius: 4px;
+  opacity: 0;
+  transition: opacity 0.15s ease;
+  pointer-events: none;
+}
+
+.research-image:hover::after {
+  opacity: 1;
 }
 
 .research-content {
@@ -113,4 +141,39 @@
     max-width: 100%;
     margin-bottom: 18px;
   }
+}
+
+/* Click-to-zoom lightbox for research figures */
+#zoom-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  background: rgba(0, 0, 0, 0.85);
+  display: none;
+  align-items: center;
+  justify-content: center;
+  cursor: zoom-out;
+  padding: 24px;
+}
+
+#zoom-overlay.open {
+  display: flex;
+}
+
+#zoom-overlay img {
+  max-width: 95%;
+  max-height: 95%;
+  border-radius: 4px;
+  box-shadow: 0 8px 40px rgba(0, 0, 0, 0.5);
+  background: #fff;
+}
+
+#zoom-overlay .close {
+  position: absolute;
+  top: 16px;
+  right: 22px;
+  color: #fff;
+  font-size: 34px;
+  line-height: 1;
+  font-weight: 300;
 }

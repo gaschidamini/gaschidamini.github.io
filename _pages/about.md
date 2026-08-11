@@ -119,5 +119,28 @@ Beyond my research, you can find me taking photos using film simulations with my
   </div>
 </div>
 
+<div id="zoom-overlay" aria-hidden="true"><span class="close">&times;</span><img alt="zoomed figure"></div>
 
+<script>
+(function () {
+  var overlay = document.getElementById('zoom-overlay');
+  if (!overlay) return;
+  var big = overlay.querySelector('img');
+  document.querySelectorAll('.research-image img').forEach(function (im) {
+    im.addEventListener('click', function () {
+      big.src = im.currentSrc || im.src;
+      big.alt = im.alt;
+      overlay.classList.add('open');
+    });
+  });
+  function closeOverlay() {
+    overlay.classList.remove('open');
+    big.removeAttribute('src');
+  }
+  overlay.addEventListener('click', closeOverlay);
+  document.addEventListener('keydown', function (e) {
+    if (e.key === 'Escape') closeOverlay();
+  });
+})();
+</script>
 
