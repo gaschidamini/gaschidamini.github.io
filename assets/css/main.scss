@@ -40,3 +40,82 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
+
+* --------------------------------------------------------------------------
+   Research items
+   -------------------------------------------------------------------------- */
+
+.research-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 30px;
+  margin: 0 0 45px 0;
+  padding: 0;
+}
+
+.research-image {
+  flex: 0 0 32%;
+  max-width: 32%;
+}
+
+.research-image img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 10;
+  object-fit: cover;
+  border-radius: 3px;
+}
+
+.research-content {
+  flex: 1;
+  min-width: 0;
+}
+
+.research-content h3 {
+  margin-top: 0;
+  margin-bottom: 8px;
+  font-size: 1.15em;
+  line-height: 1.35;
+}
+
+.research-authors {
+  margin: 0 0 4px 0;
+  font-size: 0.9em;
+}
+
+.research-venue {
+  margin: 0 0 12px 0;
+  font-size: 0.9em;
+}
+
+.research-content > p {
+  font-size: 0.9em;
+  line-height: 1.6;
+}
+
+.research-links {
+  margin-top: 12px;
+}
+
+.research-links a {
+  font-weight: 600;
+}
+
+
+/* Mobile layout */
+@media screen and (max-width: 700px) {
+  .research-item {
+    display: block;
+    margin-bottom: 40px;
+  }
+
+  .research-image {
+    max-width: 100%;
+    margin-bottom: 18px;
+  }
+
+  .research-image img {
+    aspect-ratio: 16 / 9;
+  }
+}
