@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-
+<style>
+/* Homepage-only heading sizes (this CSS loads only on the home page) */
+.page__title { font-size: 1.15em; }
+#selected-research { font-size: 1.15em; }
+</style>
 
 I am Gustavo, a PhD candidate in <a href="https://www.sfu.ca/fas/schools/sustainable-energy-engineering.html">Sustainable Energy Engineering</a> at Simon Fraser University and a member of the <a href="https://www.sfu.ca/fas/research/fas-research-labs/power-and-energy-systems/">Power & Energy Systems Research group</a>. Currently, I am working as an intern in a research and development (R&D) project, focusing on developing solutions to provide ancillary services through customer equipment to support distribution networks. My research primarily focuses on the control of heat pumps for energy management. 
 
