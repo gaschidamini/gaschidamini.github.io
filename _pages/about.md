@@ -29,7 +29,7 @@ I am a PhD candidate in <a href="https://www.sfu.ca/fas/schools/sustainable-ener
 
   <div class="research-content">
     <h3>
-      Weather-adaptive reinforcement learning framework for heat pump control under time-of-use tariffs
+      <a href="https://www.sciencedirect.com/science/article/pii/S0196890426009842">Weather-adaptive reinforcement learning framework for heat pump control under time-of-use tariffs</a>
     </h3>
 
     <p class="research-authors">
@@ -54,7 +54,7 @@ I am a PhD candidate in <a href="https://www.sfu.ca/fas/schools/sustainable-ener
 
   <div class="research-content">
     <h3>
-      Comprehensive Review on the Control of Heat Pumps for Energy Flexibility in Distribution Networks
+      <a href="https://doi.org/10.1109/ACCESS.2025.3569761">Comprehensive Review on the Control of Heat Pumps for Energy Flexibility in Distribution Networks</a>
     </h3>
 
     <p class="research-authors">
@@ -79,7 +79,7 @@ I am a PhD candidate in <a href="https://www.sfu.ca/fas/schools/sustainable-ener
 
   <div class="research-content">
     <h3>
-      A Framework for Reliability Assessment in Expansion Planning of Power Distribution Systems
+      <a href="https://doi.org/10.3390/en15145073">A Framework for Reliability Assessment in Expansion Planning of Power Distribution Systems</a>
     </h3>
 
     <p class="research-authors">
@@ -104,7 +104,7 @@ I am a PhD candidate in <a href="https://www.sfu.ca/fas/schools/sustainable-ener
 
   <div class="research-content">
     <h3>
-      Expansion Planning of Power Distribution Systems Considering Reliability: A Comprehensive Review
+      <a href="https://doi.org/10.3390/en15062275">Expansion Planning of Power Distribution Systems Considering Reliability: A Comprehensive Review</a>
     </h3>
 
     <p class="research-authors">
