@@ -194,3 +194,14 @@
 .masthead {
   display: none;
 }
+
+
+/* --------------------------------------------------------------------------
+   Hyperlinks: reference-style blue, no underline
+   -------------------------------------------------------------------------- */
+.page__content a,
+.page__content a:hover,
+.page__content a:focus {
+  color: #1772d0;
+  text-decoration: none;
+}
