@@ -201,3 +201,14 @@
   color: #cc0000;
   text-decoration: none;
 }
+
+
+/* --------------------------------------------------------------------------
+   Widen the content column (~770px -> ~850px) by trimming the theme's
+   reserved right gutter (susy suffix). Desktop only.
+   -------------------------------------------------------------------------- */
+@media screen and (min-width: 925px) {
+  .page {
+    padding-right: 10.5%;
+  }
+}
