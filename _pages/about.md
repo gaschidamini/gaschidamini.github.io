@@ -98,6 +98,31 @@ I am a PhD candidate in <a href="https://www.sfu.ca/fas/schools/sustainable-ener
 
 <div class="research-item">
   <div class="research-image">
+    <img src="/images/figure_grid_impact.png"
+         alt="Impact of vehicle electrification and solar PV on low-voltage distribution networks">
+  </div>
+
+  <div class="research-content">
+    <h3>
+      <a href="https://ieeexplore.ieee.org/document/10667099">Impact of the Electrification of Vehicles and Integration of Solar Photovoltaic Systems on Low-voltage Distribution Networks</a>
+    </h3>
+
+    <p class="research-authors">
+      <strong>Gustavo L. Aschidamini</strong>, Matheus Holzbach, Bradley A. Reinholz, Malcolm S. Metcalfe, Mariana Resener
+    </p>
+
+    <p class="research-venue">
+      <em>IEEE CCECE</em>, 2024
+    </p>
+
+    <p class="research-desc">
+      Probabilistic grid impact assessment study on a low-voltage distribution network with increasing penetration of solar PV generation and EV adoption.
+    </p>
+  </div>
+</div>
+
+<div class="research-item">
+  <div class="research-image">
     <img src="/images/figure_framework_reliability.png"
          alt="Reliability assessment in power distribution systems">
   </div>
