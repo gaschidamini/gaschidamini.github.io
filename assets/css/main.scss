@@ -59,9 +59,8 @@
   position: relative;
 }
 
-/* smaller variant for a specific figure */
-.research-image--sm {
-  flex-basis: 300px;
+/* smaller image, but keep the 400px column so the text stays aligned with the other items */
+.research-image--sm img {
   max-width: 300px;
 }
 
