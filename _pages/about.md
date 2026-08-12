@@ -58,7 +58,7 @@ I am a PhD candidate in <a href="https://www.sfu.ca/fas/schools/sustainable-ener
     </h3>
 
     <p class="research-authors">
-      <strong>Gustavo L. Aschidamini</strong>, Milan Pavlovic, Bradley Reinholz, Malcolm S. Metcalfe, Taco Niet, Mariana Resener
+      <strong>Gustavo L. Aschidamini</strong>, Mina Pavlovic, Bradley Reinholz, Malcolm S. Metcalfe, Taco Niet, Mariana Resener
     </p>
 
     <p class="research-venue">
