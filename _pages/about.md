@@ -73,6 +73,31 @@ I am a PhD candidate in <a href="https://www.sfu.ca/fas/schools/sustainable-ener
 
 <div class="research-item">
   <div class="research-image">
+    <img src="/images/figure_pv_disaggregation.png"
+         alt="Practical method for behind-the-meter solar PV disaggregation">
+  </div>
+
+  <div class="research-content">
+    <h3>
+      <a href="https://ieeexplore.ieee.org/document/11199029">Practical Method for Behind-the-Meter Solar PV Disaggregation</a>
+    </h3>
+
+    <p class="research-authors">
+      Dionathan S. Scheid, <strong>Gustavo L. Aschidamini</strong>, Eduardo S. Finck, Bibiana P. Ferraz, Sérgio Haffner, Luís Alberto Pereira
+    </p>
+
+    <p class="research-venue">
+      <em>IEEE Access</em>, 2025
+    </p>
+
+    <p class="research-desc">
+      Energy disaggregation method that operates solely on monthly net energy imports and exports, estimating behind-the-meter energy consumption and photovoltaic generation by leveraging reference generation profiles and typical load curves for end-users.
+    </p>
+  </div>
+</div>
+
+<div class="research-item">
+  <div class="research-image">
     <img src="/images/figure_framework_reliability.png"
          alt="Reliability assessment in power distribution systems">
   </div>
