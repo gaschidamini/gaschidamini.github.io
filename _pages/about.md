@@ -148,6 +148,31 @@ I am a PhD candidate in <a href="https://www.sfu.ca/fas/schools/sustainable-ener
 
 <div class="research-item">
   <div class="research-image">
+    <img src="/images/figure_framework_isgt-la.png"
+         alt="Framework for distribution systems planning considering probabilistic criteria">
+  </div>
+
+  <div class="research-content">
+    <h3>
+      <a href="https://ieeexplore.ieee.org/document/10328288">Framework for Distribution Systems Planning Considering Probabilistic Criteria</a>
+    </h3>
+
+    <p class="research-authors">
+      Mariana Resener, <strong>Gustavo L. Aschidamini</strong>, Bibiana P. Ferraz, Lara C. Almeida, Dionathan S. Scheid, Sérgio Haffner
+    </p>
+
+    <p class="research-venue">
+      <em>IEEE PES ISGT-LA</em>, 2023
+    </p>
+
+    <p class="research-desc">
+      Software for distribution network planning composed of four modules and developed to use real utility data.
+    </p>
+  </div>
+</div>
+
+<div class="research-item">
+  <div class="research-image">
     <img src="/images/figure_framework_reliability.png"
          alt="Reliability assessment in power distribution systems">
   </div>
