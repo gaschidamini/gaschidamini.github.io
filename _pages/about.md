@@ -123,6 +123,31 @@ I am a PhD candidate in <a href="https://www.sfu.ca/fas/schools/sustainable-ener
 
 <div class="research-item">
   <div class="research-image">
+    <img src="/images/figure_microgrid.png"
+         alt="Optimal renewable microgrid sizing to supply remote communities">
+  </div>
+
+  <div class="research-content">
+    <h3>
+      <a href="https://ieeexplore.ieee.org/abstract/document/10667220">Metaheuristics Applied to the Optimal Renewable Microgrid Sizing to Supply Remote Communities</a>
+    </h3>
+
+    <p class="research-authors">
+      Matheus Holzbach, John Fredy Franco Baquero, <strong>Gustavo L. Aschidamini</strong>, Mariana Resener
+    </p>
+
+    <p class="research-venue">
+      <em>IEEE CCECE</em>, 2024
+    </p>
+
+    <p class="research-desc">
+      Optimal sizing of a renewable microgrid with battery storage, solar PV systems, and wind turbines considering uncertainties with a case study of a remote community in Canada.
+    </p>
+  </div>
+</div>
+
+<div class="research-item">
+  <div class="research-image">
     <img src="/images/figure_framework_reliability.png"
          alt="Reliability assessment in power distribution systems">
   </div>
