@@ -147,7 +147,7 @@ I am a PhD candidate in <a href="https://www.sfu.ca/fas/schools/sustainable-ener
 </div>
 
 <div class="research-item">
-  <div class="research-image">
+  <div class="research-image research-image--sm">
     <img src="/images/figure_framework_isgt-la.png"
          alt="Framework for distribution systems planning considering probabilistic criteria">
   </div>

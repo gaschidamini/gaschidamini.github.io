@@ -59,6 +59,12 @@
   position: relative;
 }
 
+/* smaller variant for a specific figure */
+.research-image--sm {
+  flex-basis: 300px;
+  max-width: 300px;
+}
+
 .research-image img {
   display: block;
   width: 100%;
