@@ -23,6 +23,31 @@ I am a PhD candidate in <a href="https://www.sfu.ca/fas/schools/sustainable-ener
 
 <div class="research-item">
   <div class="research-image">
+    <img src="/images/figure_milp_hps.png"
+         alt="Optimal coordination of heat pump demand flexibility and battery energy storage">
+  </div>
+
+  <div class="research-content">
+    <h3>
+      <a href="https://arxiv.org/abs/2610.07841">Optimal Coordination of Heat Pump Demand Flexibility and Battery Energy Storage Considering the Operation of Distribution Networks</a>
+    </h3>
+
+    <p class="research-authors">
+      <strong>Gustavo L. Aschidamini</strong>, Guilherme S. Castiglio, Mariana Resener
+    </p>
+
+    <p class="research-venue">
+      <em>arXiv preprint</em>, 2026
+    </p>
+
+    <p class="research-desc">
+      Mixed-integer linear programming-based model predictive control that co-optimizes the smart-thermostat setpoints of heat pump households enrolled in direct load control with the voltage-regulation devices and grid-scale battery storage of the distribution utility, while enabling backup electric-resistance heaters to participate in preheating.
+    </p>
+  </div>
+</div>
+
+<div class="research-item">
+  <div class="research-image">
     <img src="/images/figure_rl_hps.png"
          alt="Weather-adaptive reinforcement learning framework for heat pump control">
   </div>
